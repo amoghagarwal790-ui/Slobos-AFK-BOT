@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": GatherUp.aternos.me",
+    "ip": "GatherUp.aternos.me",
     "port": 25491,
     "version": "1.21.1"
   },
